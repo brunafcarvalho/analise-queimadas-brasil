@@ -72,9 +72,7 @@ O projeto inclui um dashboard interativo no Looker Studio com:
 
 
 
-> Acesse o dashboard online: [🔗 Link do Looker Studio]((https://lookerstudio.google.com/reporting/ddab568d-2930-4e9b-81c5-8508a67c4436))
+> Acesse o dashboard online: [🔗 Link do Looker Studio](https://lookerstudio.google.com/reporting/ddab568d-2930-4e9b-81c5-8508a67c4436)
 
----
 
-##  Estrutura do Projeto
 
