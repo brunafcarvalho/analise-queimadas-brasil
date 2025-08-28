@@ -70,9 +70,9 @@ O projeto inclui um dashboard interativo no Looker Studio com:
 - Indicadores de destaque (valores absolutos e crescimento)
 - Gráfico medidor com a variação percentual
 
-![Dashboard sobre queimadas](dashboard_final.png)
 
-> (Opcional) Acesse o dashboard online: [🔗 Link do Looker Studio]([https://lookerstudio.google.com/...](https://lookerstudio.google.com/reporting/ddab568d-2930-4e9b-81c5-8508a67c4436))
+
+> Acesse o dashboard online: [🔗 Link do Looker Studio]((https://lookerstudio.google.com/reporting/ddab568d-2930-4e9b-81c5-8508a67c4436))
 
 ---
 
