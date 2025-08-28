@@ -74,5 +74,18 @@ O projeto inclui um dashboard interativo no Looker Studio com:
 
 > Acesse o dashboard online: [🔗 Link do Looker Studio](https://lookerstudio.google.com/reporting/ddab568d-2930-4e9b-81c5-8508a67c4436)
 
+---
+
+##  Sobre a autora
+
+Bruna Carvalho  
+Aluna do curso Profissão: Analista de Dados – EBAC  
+[GitHub](https://github.com/brunafcarvalho)
+
+---
+
+ **Projeto realizado para a entrega final do módulo de Looker Studio / Projeto de Parceria Semantix.**
+
+
 
 
